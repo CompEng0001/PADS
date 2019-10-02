@@ -1,6 +1,6 @@
 # PADS 
 *Programming and Debugging Support*
-
+My Name Is Rich
 testing github.com editor
 
 ## What is a ReadMe file?
