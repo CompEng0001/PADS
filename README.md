@@ -23,4 +23,4 @@ Name: CompEng0001(Username) OR you can you use your real name
 > note real name is then visibile to everyone so think carefully about your security.
 
 ## Licence 
-[CC0 1.0 Universal](https://github.com/CompEng0001/PADS/blob/master/LICENSE.md)
+[CC0 1.0 Universal](https://raw.githubusercontent.com/CompEng0001/PADS/master/LICENSE.md)
